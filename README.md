@@ -1,11 +1,9 @@
-## Hi there 👋
-Here is a list of assorted countries in Europe:
-1. United Kingdom
-1. Netherlands
-1. Belgium
-1. France
-1. Germany
-1. Spain
+## Hi there, I'm Fei 👋
+Here is a list of assorted things about me:
+1. I live in the UK
+1. currently living in Surrey
+1. Have used R before
+1. interested in statistics
 
 My name is Fei Gao, I am currently studying Msc Statistical Finance at Imperial College London.
 The [BBC](bbc.co.uk) is the British national broadcaster, funded through tax payer reciepts and from TV license fees. 
