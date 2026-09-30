@@ -7,7 +7,7 @@ Here is a list of assorted things about me:
 
 My name is Fei Gao, I am currently studying Msc Statistical Finance at Imperial College London. I have been to France, Netherlands, Belgum, Luxembourg, USA, Germany, Spain, Italy, Thailand, Singapore, China and Japan.
 
-The [BBC](bbc.co.usa) is the British national broadcaster. 
+The [BBC](bbc.co.uk) is the British national broadcaster. 
 <!--
 **feigao826/feigao826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
