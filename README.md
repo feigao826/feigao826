@@ -5,8 +5,9 @@ Here is a list of assorted things about me:
 1. Have used R before
 1. interested in statistics
 
-My name is Fei Gao, I am currently studying Msc Statistical Finance at Imperial College London. I have been to France, Netherlands, Belgum, Luxembourg, USA, Germany, Spain, Italy, Thailand, Singapore, China and Japan/
-The [BBC](bbc.co.uk) is the British national broadcaster, funded through tax payer reciepts and from TV license fees. 
+My name is Fei Gao, I am currently studying Msc Statistical Finance at Imperial College London. I have been to France, Netherlands, Belgum, Luxembourg, USA, Germany, Spain, Italy, Thailand, Singapore, China and Japan.
+
+The [BBC](bbc.co.uk) is the British national broadcaster. 
 <!--
 **feigao826/feigao826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
